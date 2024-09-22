@@ -1,4 +1,5 @@
 Прописать свой IP в переменную localIP
+Смонтировать и запустить Docker контейнер БД https://github.com/users/IgorGlukhov/packages/container/package/psqlauthservice (порты 5432:5432)
 
 1 REST маршрут(выдает пару Access, Refresh токенов для пользователя с идентификатором (GUID) указанным в параметре запроса)
 Запрос GET
